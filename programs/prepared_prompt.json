@@ -1,0 +1,11 @@
+{
+    "adjective":[
+        "flying","wearing glasses", "red color", "blue color", "green color", "orange color", "purple color", "pink color", "gray color", "yellow color", "cool", "cute", "in a cup", "smiling", "smooth", "spiky", "soft", "hard", "transparent", "realistic"
+    ],
+    "noun":[
+        "a car", "a cat", "a dog", "an apple", "a watermelon", "a donut", "a flower", "a figure", "an bicycle", "a plane", "a chair", "a table", "a book", "piled book", "a smartphone", "a laptop", "a robot", "a road sign", "shoes", "treasure", "nothing"
+    ],
+    "long_object":[
+        "grass", "sky", "water", "stone", "magma"
+    ]
+}

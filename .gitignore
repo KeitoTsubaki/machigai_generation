@@ -1,0 +1,11 @@
+models
+images/output_images/masked_images
+images/output_images/room
+images/output_images/zoo
+images/output_images/park
+images/output_images/amusement_park
+images/tmp_images
+images/main_images
+programs/__pycache__
+images/archive
+output_jsons
